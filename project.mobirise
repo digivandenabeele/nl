@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "publicatie 3ba_NL",
+    "name": "website NL",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -44,7 +44,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 266,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.4.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
